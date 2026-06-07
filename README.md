@@ -32,36 +32,16 @@ Total: 90,000+ records
 ## Dashboard Preview
 
 ### Executive Overview
-
 ![Executive Overview](docs/dashboard_screenshots/Screenshot%202026-06-07%20204245.png)
 
 ### Inventory Intelligence
-
 ![Inventory Intelligence](docs/dashboard_screenshots/Screenshot%202026-06-07%20204306.png)
 
 ### Supplier Performance
-
 ![Supplier Performance](docs/dashboard_screenshots/Screenshot%202026-06-07%20204318.png)
 
-### Shipment Analysis
-
-![Shipment Analysis](docs/dashboard_screenshots/Screenshot%202026-06-07%20204406.png)
-
-### Warehouse Utilization
-
-![Warehouse Utilization](docs/dashboard_screenshots/Screenshot%202026-06-07%20204417.png)
-
-### Demand Forecasting
-
-![Demand Forecasting](docs/dashboard_screenshots/Screenshot%202026-06-07%20204427.png)
-
-### Reorder Recommendations
-
-![Reorder Recommendations](docs/dashboard_screenshots/Screenshot%202026-06-07%20204439.png)
-
 ### Risk Dashboard
-
-![Risk Dashboard](docs/dashboard_screenshots/Screenshot%202026-06-07%20204447.png)
+![Risk Dashboard](docs/dashboard_screenshots/Screenshot%202026-06-07%20204801.png)
 
 ## Key Insights
 - Identify stockout risks
