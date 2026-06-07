@@ -29,19 +29,6 @@ Advanced SQL and Business Intelligence project that analyzes inventory, supplier
 - 20,000 Shipments
 
 Total: 90,000+ records
-## Dashboard Preview
-
-### Executive Overview
-![Executive Overview](docs/dashboard_screenshots/Screenshot%202026-06-07%20204245.png)
-
-### Inventory Intelligence
-![Inventory Intelligence](docs/dashboard_screenshots/Screenshot%202026-06-07%20204306.png)
-
-### Supplier Performance
-![Supplier Performance](docs/dashboard_screenshots/Screenshot%202026-06-07%20204318.png)
-
-### Risk Dashboard
-![Risk Dashboard](docs/dashboard_screenshots/Screenshot%202026-06-07%20204801.png)
 
 ## Key Insights
 - Identify stockout risks
